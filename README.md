@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**mnotes/mnotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ _special_ ✨ What I'm doing now:
 
-Here are some ideas to get you started:
+#### BlockChain
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Bot trading Bep20 token<br/>
+🤖 Bot sniper new token BSC
+
+#### Stock
+
+🤖 Bot Trading AI<br/>
+👨‍💼 Market researcher TA
+
+#### Skills
+
+Web FullStack<br/>
+
+PHP-laravel (8+ years exp)<br/>
+FrontEnd(html,css, js, vue, scss, webpack...) master<br/>
+NodeJS (3+ years)<br/>
+DevOps (+5 years exp)
