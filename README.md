@@ -12,9 +12,7 @@
 🤖 Bot Trading AI<br/>
 👨‍💼 Market researcher TA
 
-#### Skills
-
-Web FullStack<br/>
+#### Skills - Web FullStack<br/>
 
 PHP-laravel (8+ years exp)<br/>
 FrontEnd(html,css, js, vue, scss, webpack...) master<br/>
