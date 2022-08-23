@@ -6,12 +6,12 @@
 
 🔂 Bot trading Erc20 token<br/>
 🔂 Bot trading Bep20 token<br/>
-🤖 Sniper Bot new token
+🍿 Sniper Bot new token
 
 #### Stock
 
 🤖 Bot Trading AI<br/>
-👨‍💼 Market researcher TA
+🕵🏻‍♂️ Market researcher TA
 
 #### Skills - Web FullStack<br/>
 
