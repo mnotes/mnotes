@@ -15,7 +15,7 @@
 
 #### Skills - Web FullStack<br/>
 
-PHP-laravel (8+ years exp)<br/>
-FrontEnd master<br/>
-NodeJS (3+ years)<br/>
-DevOps (5+ years exp)<br/>
+✦ PHP-laravel (8+ years exp)<br/>
+✦ FrontEnd master<br/>
+✦ NodeJS (3+ years)<br/>
+✦ DevOps (5+ years exp)<br/>
