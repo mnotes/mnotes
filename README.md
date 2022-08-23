@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ _special_ ✨ What I'm doing now:
+✨ What I'm doing now ✨
 
 #### BlockChain
 
