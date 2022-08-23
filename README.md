@@ -4,8 +4,9 @@
 
 #### BlockChain
 
-🤖 Bot trading Bep20 token<br/>
-🤖 Sniper Bot new token BSC
+🔂 Bot trading Erc20 token<br/>
+🔂 Bot trading Bep20 token<br/>
+🤖 Sniper Bot new token
 
 #### Stock
 
