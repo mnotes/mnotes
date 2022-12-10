@@ -7,6 +7,8 @@
 🔂 Bot trading Erc20 token<br/>
 🔂 Bot trading Bep20 token<br/>
 🍿 Sniper Bot new token
+🔸 Bsc Events
+🔹 Ethereum Events
 
 #### Stock
 
@@ -19,3 +21,4 @@
 ✦ FrontEnd master<br/>
 ✦ NodeJS (3+ years)<br/>
 ✦ DevOps (5+ years exp)<br/>
+✦ Web3js (2+ years exp)<br/>
