@@ -6,8 +6,8 @@
 
 🔂 Bot trading Erc20 token<br/>
 🔂 Bot trading Bep20 token<br/>
-🍿 Sniper Bot new token
-🔸 Bsc Events
+🍿 Sniper Bot new token<br/>
+🔸 Bsc Events<br/>
 🔹 Ethereum Events
 
 #### Stock
