@@ -4,11 +4,12 @@
 
 #### BlockChain
 
-🔂 Bot trading Erc20 token<br/>
-🔂 Bot trading Bep20 token<br/>
-🍿 Sniper Bot new token<br/>
-🔸 Bsc Events<br/>
-🔹 Ethereum Events
+🍿 Sniper Bot Erc20 token<br/>
+🔹 Ethereum Explore <br/>
+
+🍿 Sniper Bot Bep20 token<br/>
+🔸 Bsc Locked<br/>
+
 
 #### Stock
 
@@ -19,6 +20,6 @@
 
 ✦ PHP-laravel (8+ years exp)<br/>
 ✦ FrontEnd master<br/>
-✦ NodeJS (3+ years)<br/>
-✦ DevOps (5+ years exp)<br/>
-✦ Web3js (2+ years exp)<br/>
+✦ NodeJS (4+ years)<br/>
+✦ DevOps (6+ years exp)<br/>
+✦ Web3js (3+ years exp)<br/>
