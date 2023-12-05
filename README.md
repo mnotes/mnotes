@@ -7,7 +7,7 @@
 🍿 Sniper Bot Erc20 token<br/>
 🔹 Ethereum Explore <br/>
 
-🍿 Sniper Bot Bep20 token<br/>
+🔫 Sniper Bot Bep20 token<br/>
 🔸 Bsc Locked<br/>
 
 
