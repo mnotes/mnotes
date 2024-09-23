@@ -4,12 +4,8 @@
 
 #### BlockChain
 
-🍿 Sniper Bot Erc20 token<br/>
-🔹 Ethereum Explore <br/>
-
-🔫 Sniper Bot Bep20 token<br/>
-🔸 Bsc Locked<br/>
-
+🍿 Bot Trade Erc20<br/>
+🔸 0xChain Explore<br/>
 
 #### Stock
 
@@ -18,8 +14,8 @@
 
 #### Skills - Web FullStack<br/>
 
-✦ PHP-laravel (8+ years exp)<br/>
 ✦ FrontEnd master<br/>
-✦ NodeJS (4+ years)<br/>
+✦ PHP-laravel (8+ years exp)<br/>
+✦ NodeJS (5+ years exp)<br/>
 ✦ DevOps (6+ years exp)<br/>
 ✦ Web3js (3+ years exp)<br/>
