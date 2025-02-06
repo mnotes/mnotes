@@ -4,18 +4,19 @@
 
 #### BlockChain
 
-🍿 Bot Trade Erc20<br/>
+🍿 Bot Erc20<br/>
 🔸 0xChain Explore<br/>
+🔸 Solana Explore<br/>
 
 #### Stock
 
 🤖 Bot Trading AI<br/>
-🕵🏻‍♂️ Market researcher TA
+🕵🏻‍♂️ Market researcher<br/>
 
 #### Skills - Web FullStack<br/>
 
-✦ FrontEnd master<br/>
+✦ Frontend master<br/>
 ✦ PHP-laravel (8+ years exp)<br/>
-✦ NodeJS (5+ years exp)<br/>
+✦ NodeJS (6+ years exp)<br/>
 ✦ DevOps (6+ years exp)<br/>
-✦ Web3js (3+ years exp)<br/>
+✦ Web3js (4+ years exp)<br/>
