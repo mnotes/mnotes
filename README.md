@@ -5,7 +5,7 @@
 #### BlockChain
 
 🍿 Bot Erc20<br/>
-🔸 0xChain Explore<br/>
+🔸 0xEVM Explore<br/>
 🔸 Solana Explore<br/>
 
 #### Stock
