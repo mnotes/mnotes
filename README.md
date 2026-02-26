@@ -6,7 +6,7 @@
 
 🍿 Bot Erc20<br/>
 🔸 Solana Explore<br/>
-🔸 0xEVM Explore<br/>
+🔸 0xEvm Explore<br/>
 
 #### Stock
 
