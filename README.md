@@ -4,11 +4,11 @@
 
 #### BlockChain
 
-🍿 Bot Erc20<br/>
+🍿 Bots<br/>
 🔸 Solana Explore<br/>
 🔸 0xEvm Explore<br/>
 
-#### Stock
+#### Fintech
 
 🤖 Bot Trading AI<br/>
 🕵🏻‍♂️ Market researcher<br/>
